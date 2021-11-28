@@ -5,3 +5,5 @@
 3. git commit -m "init project"
 4. git log / git log --oneline
 5. git push [rep-link] [branch_name]
+6. git diff file_name
+7. git reset --hard (it is return to the previous pushed version without last changes) 
