@@ -7,3 +7,5 @@
 5. git push [rep-link] [branch_name]
 6. git diff file_name
 7. git reset --hard (it is return to the previous pushed version without last changes) 
+8. git branch [newBranch_name]
+9. git checkout [newBranch_name] (switch to the new branch)
