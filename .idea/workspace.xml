@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b44c7db-7d5a-4744-b136-37bd70e998e9" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="20x1wm4I4ThwVW0eCNNFJCMVo9x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sl\Desktop\Minin_Front_Course\19_Tasks_initial_project" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b44c7db-7d5a-4744-b136-37bd70e998e9" name="Changes" comment="" />
+      <created>1636971666905</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636971666905</updated>
+      <workItem from="1636971668655" duration="2334000" />
+      <workItem from="1637010539019" duration="1060000" />
+      <workItem from="1637011647412" duration="3736000" />
+      <workItem from="1637082226880" duration="3305000" />
+      <workItem from="1637136967462" duration="11163000" />
+      <workItem from="1637219562462" duration="4997000" />
+      <workItem from="1637261034317" duration="8970000" />
+      <workItem from="1637352799643" duration="599000" />
+      <workItem from="1637414934019" duration="5476000" />
+      <workItem from="1637481517349" duration="177000" />
+      <workItem from="1637488924682" duration="24996000" />
+      <workItem from="1637746680746" duration="8276000" />
+      <workItem from="1637830271411" duration="682000" />
+      <workItem from="1637831895993" duration="414000" />
+      <workItem from="1637832386511" duration="599000" />
+      <workItem from="1637833019963" duration="2433000" />
+    </task>
+    <task id="LOCAL-00001" summary="problem solving">
+      <created>1638093000423</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638093000423</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="problem solving" />
+    <option name="LAST_COMMIT_MESSAGE" value="problem solving" />
+  </component>
+</project>
