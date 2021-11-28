@@ -1,0 +1,47 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"1b44c7db-7d5a-4744-b136-37bd70e998e9\" name=\"Changes\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"JavaScript File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"20x1wm4I4ThwVW0eCNNFJCMVo9x\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"nodejs_interpreter_path.stuck_in_default_project\" value=\"undefined stuck path\" />\r\n    <property name=\"nodejs_npm_path_reset_for_default_project\" value=\"true\" />\r\n    <property name=\"nodejs_package_manager_path\" value=\"npm\" />\r\n    <property name=\"run.code.analysis.last.selected.profile\" value=\"pProject Default\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"org.jetbrains.plugins.github.ui.GithubSettingsConfigurable\" />\r\n  </component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\Sl\\Desktop\\Minin_Front_Course\\19_Tasks_initial_project\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"1b44c7db-7d5a-4744-b136-37bd70e998e9\" name=\"Changes\" comment=\"\" />\r\n      <created>1636971666905</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1636971666905</updated>\r\n      <workItem from=\"1636971668655\" duration=\"2334000\" />\r\n      <workItem from=\"1637010539019\" duration=\"1060000\" />\r\n      <workItem from=\"1637011647412\" duration=\"3736000\" />\r\n      <workItem from=\"1637082226880\" duration=\"3305000\" />\r\n      <workItem from=\"1637136967462\" duration=\"11163000\" />\r\n      <workItem from=\"1637219562462\" duration=\"4997000\" />\r\n      <workItem from=\"1637261034317\" duration=\"8970000\" />\r\n      <workItem from=\"1637352799643\" duration=\"599000\" />\r\n      <workItem from=\"1637414934019\" duration=\"5476000\" />\r\n      <workItem from=\"1637481517349\" duration=\"177000\" />\r\n      <workItem from=\"1637488924682\" duration=\"24996000\" />\r\n      <workItem from=\"1637746680746\" duration=\"8276000\" />\r\n      <workItem from=\"1637830271411\" duration=\"682000\" />\r\n      <workItem from=\"1637831895993\" duration=\"414000\" />\r\n      <workItem from=\"1637832386511\" duration=\"599000\" />\r\n      <workItem from=\"1637833019963\" duration=\"2433000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 7fa9582eddff54cb03096afe794ae1a009f9d44c)
++++ b/.idea/workspace.xml	(date 1637923091275)
+@@ -1,9 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="1b44c7db-7d5a-4744-b136-37bd70e998e9" name="Changes" comment="">
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-    </list>
++    <list default="true" id="1b44c7db-7d5a-4744-b136-37bd70e998e9" name="Changes" comment="" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -63,11 +61,23 @@
+       <workItem from="1637830271411" duration="682000" />
+       <workItem from="1637831895993" duration="414000" />
+       <workItem from="1637832386511" duration="599000" />
+-      <workItem from="1637833019963" duration="2433000" />
++      <workItem from="1637833019963" duration="3470000" />
+     </task>
++    <task id="LOCAL-00001" summary="first commit">
++      <created>1637920688045</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1637920688045</updated>
++    </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
+   </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="first commit" />
++    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
++  </component>
+ </project>
+\ No newline at end of file
