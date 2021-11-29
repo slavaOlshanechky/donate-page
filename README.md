@@ -10,4 +10,4 @@
 8. git branch [newBranch_name]
 9. git checkout [newBranch_name] (switch to the new branch)
 10. git pull origin master (git pull [rep-link] [branch_name])
-11. git merge
+11. git merge [newBranch_name] (before merge do checkout branch where you want to copy files)
